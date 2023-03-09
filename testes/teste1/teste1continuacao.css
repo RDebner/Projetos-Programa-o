@@ -1,0 +1,27 @@
+.presente-abrindo{
+height: 600px;
+width: 650px;
+
+}
+.body{
+   text-align: center;
+   background-color: #a3f7d5;
+   margin-top: 50px;
+   font-style: italic;
+   background-image: url(./imagens/gifs-de-caixa-de-presente-abrindo-25.gif);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center center;
+   
+}
+.texto{
+    font-size: 30px;
+}
+.lacasadepapel{
+    height: 300px;
+   
+   
+}
+.fim{
+    padding-top: 900px;
+}

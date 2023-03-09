@@ -25,10 +25,21 @@
     margin-bottom: 50px;
 }
 .minha-imagem{
-    width: 180px;
-    height: 300px;
+    width: 200px;
+    height: 330px;
 }
 .caralindo{
     margin-bottom: 100px;
     
+}
+.botao-presente{
+    width: 250px;
+    height: 80px;
+    margin-bottom: 50px;
+    background-color: blue;
+}
+.Presente{
+    font-size: 20px;
+    display: inline;
+    color: aliceblue;
 }
